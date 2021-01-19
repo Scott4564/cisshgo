@@ -1,5 +1,6 @@
 # cisshgo
 Simple, small, fast, concurrent SSH server to emulate network equipment (i.e. Cisco IOS) for testing purposes.
+Used for Cisco Devnet training when real devices aren't available.
 
 ## Usage
 

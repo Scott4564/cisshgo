@@ -50,8 +50,8 @@ nfpms:
       darwin: darwin
       linux: linux
     vendor: cisshgo
-    homepage: https://github.com/tbotnz/cisshgo
-    maintainer: tbotnz
+    homepage: https://github.com/Scott4564/cisshgo_for_devnet
+    maintainer: scott4564
     description: Simple, small, fast, concurrent SSH server to emulate network equipment (i.e. Cisco IOS) for testing purposes.
     license: Apache 2.0
     formats:
