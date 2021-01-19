@@ -1,0 +1,53 @@
+-------------------------
+Device ID: S1.netauto.com
+Entry address(es):
+  IP address: 192.168.1.2
+Platform: cisco WS-C2960-24TC-S,  Capabilities: Switch IGMP
+Interface: GigabitEthernet0/0,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 156 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 15.0(2)SE10a, RE
+LEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Thu 03-Nov-16 14:21 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=0000000
+0FFFFFFFF010221FF0000000000000C2724E53D00FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 192.168.1.2
+
+-------------------------
+
+Device ID: S2.netauto.com
+Entry address(es):
+  IP address: 192.168.1.4
+Platform: cisco WS-C2960-48TT-L,  Capabilities: Switch IGMP
+Interface: GigabitEthernet0/0,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 166 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE10a, RE
+LEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Thu 03-Nov-16 14:21 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=0000000
+0FFFFFFFF010231FF000000000000DC7B94B96600FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Management address(es):
+  IP address: 192.168.1.4
+
+-------------------------
+
+
+Total cdp entries displayed : 2
